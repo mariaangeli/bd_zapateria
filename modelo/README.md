@@ -54,3 +54,4 @@
 `SELECT nombre_articulo FROM Articulo WHERE precio_articulo BETWEEN 5000 AND 40000;`
 
 ¡[Consulta 6](img/consulta_6.png "Consulta 6")
+
